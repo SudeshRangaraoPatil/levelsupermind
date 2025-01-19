@@ -1,9 +1,3 @@
-## Deployment
-
-deployed project link
-
-```bash
-  https://levelsupermind-q9ffcp1j7-parags-projects-d0af38f7.vercel.app
 
 # Soul_buddy
 
@@ -130,9 +124,9 @@ Make sure you have the following installed:
 
 ## Deployment
 
-To deploy this project run
+run this link
 
 ```bash
-  npm run deploy
+  (https://levelsupermind-q9ffcp1j7-parags-projects-d0af38f7.vercel.app)
 ```
 
